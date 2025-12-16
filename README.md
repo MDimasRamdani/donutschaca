@@ -4,7 +4,7 @@ Aplikasi **Donutschaca** adalah sistem pemesanan donat berbasis web yang dikemba
 
 
 
-![Dashboard Admin](img/gambarweb/Pelanggan/Dashboard.png)
+![Dashboard Pelanggan](img/gambarweb/Pelanggan/Dashboard.png)
 
 ---
 
@@ -13,6 +13,8 @@ Aplikasi **Donutschaca** adalah sistem pemesanan donat berbasis web yang dikemba
 Aplikasi ini memiliki **3 aktor utama** dengan peran dan hak akses yang berbeda, yaitu **Admin**, **Owner**, dan **Pelanggan**.
 
 ### 👨‍💼 Admin
+
+![Dashboard Admin](img/gambarweb/Admin/DashboardAdmin.png)
 
 Admin bertugas mengelola operasional sistem harian, meliputi:
 
