@@ -90,3 +90,26 @@ htdocs/
 ├── img/
 ├── donut.png
 └── index.php
+
+⚙️ Installation
+git clone https://github.com/username/donutschaca.git
+C:/xampp/htdocs/donutschaca
+http://localhost/donutschaca
+
+🔐 Access Control
+| Role      | Access                      |
+| --------- | --------------------------- |
+| Admin     | Produk, Pesanan, Pembayaran |
+| Owner     | Laporan & Manajemen Admin   |
+| Pelanggan | Produk & Pemesanan          |
+
+🎓 Academic Context
+Project ini dikembangkan sebagai bagian dari skripsi / tugas akhir dan implementasi Sistem Informasi UMKM berbasis web.
+
+👨‍🎓 Developer
+Muhamad Dimas Ramdani Fitrian Syaputra
+Informatics Engineering Student – Web Development
+
+“Building systems is not just about code, but about solving real problems.”
+
+⭐ If you find this project useful, please give it a star!
