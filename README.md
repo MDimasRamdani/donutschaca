@@ -91,22 +91,35 @@ htdocs/
 ├── donut.png
 └── index.php
 
---- ## ⚙️ Instalasi & Konfigurasi 1. **Clone repository**
+--- ## ⚙️ Instalasi & Konfigurasi
+1. **Clone repository**
+
 bash
 git clone https://github.com/username/donutschaca.git
+
 2. **Pindahkan project ke folder htdocs**
 bash
 C:/xampp/htdocs/donutschaca
-3. **Buat database MySQL** * Nama database: donutschaca * Import file SQL (jika tersedia) 4. **Konfigurasi koneksi database** Buka file:
+
+3. **Buat database MySQL**
+* Nama database: donutschaca
+* Import file SQL (jika tersedia)
+
+4. **Konfigurasi koneksi database**
+Buka file:
+
 bash
 /koneksi/koneksi.php
+
 Sesuaikan dengan konfigurasi MySQL Anda:
 php
 $host = "localhost";
 $user = "root";
 $pass = "";
 $db   = "donutschaca";
-5. **Jalankan aplikasi** Buka browser dan akses:
+
+5. **Jalankan aplikasi**
+Buka browser dan akses:
 text
 http://localhost/donutschaca
 ---
