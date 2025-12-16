@@ -14,7 +14,7 @@ Aplikasi ini memiliki **3 aktor utama** dengan peran dan hak akses yang berbeda,
 
 ### 👨‍💼 Admin
 
-![Dashboard Admin](img/gambarweb/Admin/Dashboard Admin.png)
+![Dashboard Admin](img/gambarweb/Admin/DashboardAdmin.png)
 
 Admin bertugas mengelola operasional sistem harian, meliputi:
 
